@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rovers BC - Home",
     "description": "",
-    "home_page_url": "https://Rovers-BC.github.io",
-    "feed_url": "https://Rovers-BC.github.io/feed.json",
+    "home_page_url": "https://roversbc.ca",
+    "feed_url": "https://roversbc.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "Rovers"
     },
     "items": [
         {
-            "id": "https://Rovers-BC.github.io/posts/rovers-try-to-make-a-website/",
-            "url": "https://Rovers-BC.github.io/posts/rovers-try-to-make-a-website/",
+            "id": "https://roversbc.ca/posts/rovers-try-to-make-a-website/",
+            "url": "https://roversbc.ca/posts/rovers-try-to-make-a-website/",
             "title": "Rovers Try to Make a Website",
             "summary": "Join us on the Rovers BC Discord to fail at designing a website! Date TBD, time tbd",
             "content_html": "\n  <p>\n    Join us on the Rovers BC Discord to fail at designing a website!\n  </p>\n\n  <p>\n    Date TBD, time tbd\n  </p>\n\n  <p>\n    \n  </p>",

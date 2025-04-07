@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Rovers BC - Home</title>
-    <link href="https://Rovers-BC.github.io/feed.xml" rel="self" />
-    <link href="https://Rovers-BC.github.io" />
+    <link href="https://roversbc.ca/feed.xml" rel="self" />
+    <link href="https://roversbc.ca" />
     <updated>2025-04-06T19:11:29-07:00</updated>
     <author>
         <name>Rovers</name>
     </author>
-    <id>https://Rovers-BC.github.io</id>
+    <id>https://roversbc.ca</id>
 
     <entry>
         <title>Rovers Try to Make a Website</title>
         <author>
             <name>Rovers</name>
         </author>
-        <link href="https://Rovers-BC.github.io/posts/rovers-try-to-make-a-website/"/>
-        <id>https://Rovers-BC.github.io/posts/rovers-try-to-make-a-website/</id>
+        <link href="https://roversbc.ca/posts/rovers-try-to-make-a-website/"/>
+        <id>https://roversbc.ca/posts/rovers-try-to-make-a-website/</id>
 
         <updated>2025-04-06T19:11:29-07:00</updated>
             <summary>
